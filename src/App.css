@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.mt-10 {
+  margin-top: 1rem;
+}
+.address-panel textarea {
+  width: 80%;
+  margin-top: 20px;
+}
